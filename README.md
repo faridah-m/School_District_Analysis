@@ -12,3 +12,24 @@ Results prior THS 9th Grade Removal:
 ![Image](https://github.com/faridah-m/School_District_Analysis/blob/main/Pre_THS.PNG)
 Results after THS 9th Grade Removal:
 ![Image](https://github.com/faridah-m/School_District_Analysis/blob/main/Post_THS.PNG)
+
+### How is the school summary affected?
+By removing the 9th graders from THS school, the overall school summary was not significantly affected. Thomas High School still remained in the top 5 schools.This is because of good performance of their other grades. 
+
+![Image](https://github.com/faridah-m/School_District_Analysis/blob/main/Top_5_THS.PNG)
+
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+It affects THS performance slightly as the math passing scores of 83.5% was higher than district passing math score of 78.9%, however THS 10th-12th graders also performed above average in these two categories compared to the district which still left them #2 in the top 5 schools overall passing.
+
+### How does replacing the ninth-grade scores affect the following:
+- Math and reading scores by grade: All scores become Null / NaN
+- Scores by school spending: THS remained in the same school spending bin
+- Scores by school size: % Passing math went from 73% to 73.46%, % Passing Reading went from 84% to 84.3%. Other bin were unaffected as the seperation by school spending resulted in only the passing % of the specfic bin being affected
+- Scores by school type: No significant change was observed when THS 9th grade schores were removed
+
+## Summary
+Below are the four major changes to the school district analysis after reading and math scores have been replaced:
+- Bins that THS belonged to changed
+- Average scores for THS in Math and Reading
+- THS Student Count
+- Medium school size passing & for Math and Reading
