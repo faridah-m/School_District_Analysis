@@ -7,6 +7,7 @@ By analyzing the results of the analysis, we will be answering the following que
 
 ### How is the district summary affected
 The district summary was affected as THS 9th grade students averaged higher math reading and overall passing % than the district %. By removing the THS 9th grade results we were able to capture accurate results. 
+
 Results prior THS 9th Grade Removal:
 ![Image](https://github.com/faridah-m/School_District_Analysis/blob/main/Pre_THS.PNG)
 Results after THS 9th Grade Removal:
